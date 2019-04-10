@@ -17,7 +17,7 @@ public class p10 extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public serv() {
+    public p10() {
         super();
         // TODO Auto-generated constructor stub
     }
